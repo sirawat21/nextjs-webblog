@@ -1,4 +1,4 @@
-## Getting Started
+## Webblog NextJS based
 ## Commands
 
 ```bash
