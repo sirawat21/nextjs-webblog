@@ -13,9 +13,9 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1 className="text-3xl font-bold underline text-sky-500">
-        Hello world!
-      </h1>
+      <div>
+        <p>Next JS index</p>
+      <div/>
     </>
   )
 }
